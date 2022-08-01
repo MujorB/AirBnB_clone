@@ -5,13 +5,11 @@ This project is the beginning of a series of projects for recreating AirBnb, fro
 This is the first phase of a four phase project, to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
 
 ### Environment 💻
-The console was developed in Ubuntu 20.04LTS using python3 (version 3.4.3).
-
+The console was developed in Ubuntu 20.04LTS using python3 (version 3.4.3)
 Further information 📑 For further information on python version, and documentation visit python.org
 
 ### Requirements 📝
 Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 14.04, python3 and pep8 style corrector.
-
 This repository contains the following files:
 
 
@@ -28,5 +26,5 @@ Method Description create Creates object of given class show Prints the string r
 To  the peers that contributed with their knowledge
 
 ### Authors 🖋️
-<Abuhasan Mubaraq>
-<Mujor Bright>
+`Abuhasan Mubaraq`
+`Mujor Bright`
